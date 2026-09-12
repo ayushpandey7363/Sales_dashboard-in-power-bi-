@@ -1,0 +1,83 @@
+# Sales Dashboard – Power BI
+
+## About the Project
+
+This project is a **Sales Dashboard created in Microsoft Power BI**.  
+The main purpose of the dashboard is to make sales data easier to understand through interactive charts, cards, tables, and filters.
+
+Instead of checking a large amount of sales data manually, the dashboard brings the important information together in one place. It can help a user quickly understand sales performance, compare results, and identify useful business trends.
+
+## Objectives
+
+The main objectives of this dashboard are:
+
+- To understand overall sales performance.
+- To track important sales figures and KPIs.
+- To compare sales across different categories or segments.
+- To identify trends and changes in sales.
+- To make the data easier to analyze and present.
+- To support better business decisions using visual data.
+
+## Tools Used
+
+- **Microsoft Power BI**
+- **Power Query** – for data cleaning and transformation.
+- **DAX** – for calculations and measures.
+- **Data Visualization** – for charts, cards, tables, and interactive filters.
+
+## Dashboard Features
+
+The dashboard is designed to provide a simple and interactive view of sales information. Depending on the available fields in the dataset, users can analyze information such as:
+
+- Total Sales
+- Sales by Category
+- Sales by Product
+- Sales by Region/Location
+- Sales by Customer or Segment
+- Sales trends over time
+- Other important sales KPIs
+
+The filters and slicers allow users to change the view and focus on a particular period, category, region, product, or other available dimension.
+
+## How to Use
+
+1. Open `sales_dashboard.pbix` in **Microsoft Power BI Desktop**.
+2. Wait for the report to load.
+3. Use the available slicers and filters to select the required information.
+4. Select different charts or visuals to explore the data.
+5. Hover over visuals to see additional details.
+6. If the data source is connected externally, refresh the dataset when required.
+
+## Data Preparation
+
+The sales data is prepared before creating the final visuals. Typical preparation steps include:
+
+- Removing unnecessary or duplicate records.
+- Checking blank or missing values.
+- Correcting data types.
+- Formatting dates and numeric fields.
+- Creating calculated columns or measures where required.
+- Organizing the data so that it can be analyzed efficiently in Power BI.
+
+## DAX / Calculations
+
+DAX (Data Analysis Expressions) can be used in the report to create measures and calculations such as totals, averages, percentages, growth, and other business KPIs.
+
+The calculations should be kept in measures wherever possible so that the dashboard remains flexible when users apply filters.
+
+## Business Value
+
+This dashboard can help a business understand **what is selling, where sales are performing well, and how sales change over time**. It turns raw sales records into a visual summary that is easier for managers, analysts, and other users to understand.
+
+## Project Outcome
+
+The final outcome of this project is an interactive Power BI sales dashboard that presents sales information in a clear and user-friendly way. The dashboard demonstrates the use of data cleaning, data modeling, DAX calculations, and visualization in Power BI.
+
+## File
+
+- `sales_dashboard.pbix` – Power BI dashboard/report file.
+
+## Author
+
+**Sales Dashboard Project**
+
